@@ -9,6 +9,10 @@ Throughout your career in software design and development, you will be asked to 
 
 For this assessment, you will create a C# application using the solution statements provided in the requirements section.
 
+### UML Class Diagram
+<img width="1287" height="724" alt="image" src="https://github.com/user-attachments/assets/7d59f117-b810-4258-83a7-6200fee502ac" />
+
+
 ### Requirements
 I. User Interface
 
