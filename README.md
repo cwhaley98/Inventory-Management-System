@@ -2,6 +2,7 @@
 
 #### Created on VS Code Community 2022
 #### Language used: C#
+#### .Net Version: .NET Framework 9
 
 ### Task
 Throughout your career in software design and development, you will be asked to create applications with various features and functionality based on business requirements. When a new system is developed, the process typically begins with a business analyst gathering and writing the business requirements with the assistance of subject matter experts from the business. A system analyst then works with several application team members and others to formulate a solution based on the requirements. As a developer, you would then create a design document from the solution and finally develop the system based on your design document.
